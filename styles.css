@@ -1,0 +1,9 @@
+.card {
+    position: absolute;
+    float: left;
+}
+
+#card-draw {
+    padding: 30px;
+    height: 300px;
+}
